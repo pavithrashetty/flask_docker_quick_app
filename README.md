@@ -7,4 +7,4 @@
 * Open the teminal and change directory to the project root folder.
 * Before you can run the app you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable:
       export FLASK_APP=hello
-* use the following command to run: python -m flask. 
+* use the following command to run: python -m flask run
